@@ -1,0 +1,13 @@
+"agent 1"(
+"ip"("192.168.1.210"),
+"port"("4444"),
+"neighbours"(
+"agent 2"(
+"ip"("192.67.4.2"),
+"port"("12345")),
+"agent 3"(
+"ip"("192.67.4.1"),
+"port"("12346"))),
+"measurements"(
+"voltage"("4.2V"),
+"power"("7KW")))
